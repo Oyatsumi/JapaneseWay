@@ -1,0 +1,54 @@
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\NomeJapones.vbproj.GenerateResource.Cache
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form9.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\Interop.WMPLib.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\Interop.WMPLib.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\NomeJapones.vbproj.ResolveComReference.cache
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form13.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form14.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form16.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form17.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form19.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form20.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form21.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form22.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form23.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form24.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form25.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form26.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form27.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form28.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form29.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form30.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form31.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form32.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form33.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form34.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\AxInterop.Microsoft.Vbe.Interop.Forms.dll
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\JapaneseWay 5.3.exe
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\JapaneseWay 5.3.pdb
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\bin\Debug\JapaneseWay 5.3.xml
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form35.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form36.resources
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\JapaneseWay 5.3.exe
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\JapaneseWay 5.3.xml
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\JapaneseWay 5.3.pdb
+C:\Users\erick\Documents\Projetos Visual Basic\NomeJapones\NomeJapones\obj\Debug\WindowsApplication1.Form37.resources

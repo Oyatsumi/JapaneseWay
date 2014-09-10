@@ -1,0 +1,98 @@
+Versão 5.3
+• O bug da resposta errada dos dois últimos menus de deveres interativos
+ajeitados.
+
+Versão 5.2
+• Interface de "Passar nome pra japonês" totalmente reformulada, agora
+não é utilizado mais sílabas para tradução do nome e sim o nome inteiro.
+• Aula 3 adicionada.
+• Interface: Conjugue os verbos corretamente, adicionado.
+• Novas palavras adicionadas ao dicionário.
+
+Versão 5.0f
+• Bug do "tsu" do editor de texto japonês ajeitado.
+• Bug do "tsu" de passar do dicionário de palavras para o editor de
+texto ajeitado.
+• Novas palavras adicionadas ao dicionário.
+
+Versão 5.0e
+• Bug do dicionário de palavras, quando digitado "n" ajeitado.
+• Novas palavras adicionadas ao dicionário.
+• Editor de texto aprimorado para o katakana e hiragana "n" digitando-o
+apenas uma vez.
+• Beep do editor de texto em japonês retirado.
+
+Versão 5.0d
+• Agora o dicionário de palavras possui 1300 palavras.
+• Cor das letras do menu de passar nomes japonês passado para 
+branco(em alguns computadores estava preto).
+• Coisas foram adicionadas e ajeitadas nas Aulas 1 e 2, elas também
+estão mais nítidas.
+• Varios exercícios adicionados.
+
+Versão 5.0c
+• Bug do prolongamento de Katakana Hiragana para romanizado ajeitado.
+
+Versão 5.0b
+• Algumas coisas adicionadas e modificadas.
+• Novas Palavras do dicionário adicionadas.
+
+Versão 5.0
+• Erro de tradução, ue é em cima e não casa. Consertado.
+• Yume é sonho e não famoso, desculpe meus ataques de desligamento. Consertado.
+• Dicionário de Palavras e Expressões adicionado.
+745 palavras adicionadas ao dicionário.
+• Adicionado escolha randômica às "Partículas para completar".
+• Hiraganas trocados por katakanas no editor de texto consertado.
+• Aula 2 adicionada.
+• Perguntas sobre o dia-a-dia japonês. (interativo)
+• Complete a frase adicionado.
+• Interatividade reorganizada.
+
+Versão 4.5
+• Bug de kanjis consertado.
+• Adicionado opção para salvar imagem apenas do nome convertido para
+japones, e não da tela toda.
+• Menu reorganizado, editado e novo.
+• Kanjis agora em ordem alfabética.
+• Bug do kanji da palavra "GRANDE" consertado.
+• Kanji Quiz saindo quentinho do forno.
+Com busca e procura de kanjis e com suas devidas leituras.
+• Aula 1 adicionada.
+• Sistema interativo de pergunta e resposta de partículas japonesas.
+• Bug de repetição do Quiz de Katakana e Hiragana fixado.
+
+Versão 4.0
+• Novos Kanjis adicionados.
+• Novo sistema com procura para o item Principais Kanjis.
+• Bug de tirar screenshot fixado.
+• Jogo "Japanese Time" adicionado.
+Consiste em um jogo de conhecimentos sobre katakana e hiragana para disputar com
+seu amigo ou sozinho.
+• Caracteres Katakana e Hiragana todos adicionados para cópia.
+• Fontes japonesas adicionadas para Windows XP e anteriores.
+Para instalação das fontes é necessário baixar o programa com as fontes inclusas.
+• Novo sistema de editor de texto Katakana e Hiragana!
+Acredito que todos vão gostar disso, vai facilitar a vida de todo mundo!!
+Tem desde aspas à interrogação e tudo mais, funcionando perfeitamente!
+• Nova biblioteca Hiragana e Katakana para cópia com busca.
+• Novos tutoriais e explicações.
+• Romanização de Katakana e Hiragana.
+Agora você pode passar suas frases em katakana ou hiragana para Romanji,
+a escrita romanizada.
+
+Versão 3.0
+• Adicionado Ordem de escrita e pronúncia de Katakanas e Hiraganas.
+• Novos tutoriais e explicações.
+• Adicionado Principais Kanjis.
+• Adicionado novas sílabas à tradução de nomes.
+
+Versão 2.0
+• Adicionado tabela de Katakana e Hiragana e opção para impressão.
+• Adicionado Hiragana Quiz.
+• Adicionado Katakana Quiz.
+• Novos tutoriais e explicações.
+• Adicionado novos menus e interface de inicialização.
+
+Versão 1.2
+• Adicionado a cópia dos caracteres dos nomes.
